@@ -1,0 +1,5 @@
+{
+  "task_id": "demo-task",
+  "source_path": "example/source.png",
+  "instruction": "Apply the requested edit."
+}
